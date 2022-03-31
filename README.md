@@ -1,1 +1,1 @@
-# RegressionTrading
+# Regression Trading
